@@ -1,0 +1,6 @@
+{
+  "name":"gcd-studio-real-ai",
+  "private":true,
+  "type":"module",
+  "dependencies":{"openai":"^4.104.0"}
+}
